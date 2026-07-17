@@ -49,7 +49,7 @@ public/                Statik varlıklar (ekran görüntüleri, rozetler, logo)
 
 | Değişken               | Açıklama                                                                 |
 | ----------------------- | ------------------------------------------------------------------------- |
-| `NEXT_PUBLIC_SITE_URL`  | Sitenin canlı adresi. Sitemap, robots.txt ve OG meta verilerinde kullanılır. Ayarlanmazsa `https://turist-beta.vercel.app` varsayılan olarak kullanılır. |
+| `NEXT_PUBLIC_SITE_URL`  | Sitenin canlı adresi. Sitemap, robots.txt ve OG meta verilerinde kullanılır. Ayarlanmazsa `https://turisturkiye.vercel.app` varsayılan olarak kullanılır. |
 
 ## Dağıtım (Deployment)
 
