@@ -9,6 +9,7 @@ const navLinks = [
   { label: "İndir", href: "/#indir" },
   { label: "Gizlilik", href: "/gizlilik" },
   { label: "Lisans Sözleşmesi", href: "/lisans" },
+  { label: "Hesap Silme", href: "/hesap-silme" },
 ];
 
 export default function Footer() {
